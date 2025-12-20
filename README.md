@@ -4,7 +4,7 @@ I Made a Music player for a uni project I made this in Visual studio .Net framew
 
 A modern, feature-rich Windows desktop music player built with C# and Windows Forms, featuring intelligent song recommendations powered by Last.fm API.
 
-![Music Player Banner](screenshots/banner.png)
+
 
 ## ✨ Features
 
@@ -27,7 +27,8 @@ A modern, feature-rich Windows desktop music player built with C# and Windows Fo
 - **Responsive Controls**: Smooth animations and immediate feedback
 - **Album Art Placeholder**: Music note icon with customizable design
 
-![Main Interface](screenshots/main-interface.png)
+<img width="983" height="561" alt="image" src="https://github.com/user-attachments/assets/76a72b86-c024-4ed7-a74c-998f7f439aed" />
+
 
 ---
 
@@ -64,7 +65,6 @@ A modern, feature-rich Windows desktop music player built with C# and Windows Fo
    - Click `Install`
 
 5. **Get Last.fm API Key** (Optional but recommended)
-   - Visit [Last.fm API Account Creation](https://www.last.fm/api/account/create)
    - Fill in application details:
      - **Application Name**: My Music Player
      - **Application Description**: Personal music player with recommendations
@@ -93,7 +93,6 @@ A modern, feature-rich Windows desktop music player built with C# and Windows Fo
 **Pro Tip**: Name your files as `"Artist - Song Title.mp3"` for best results!
 - Example: `The Weeknd - Blinding Lights.mp3`
 
-![Add Songs Demo](screenshots/add-songs.gif)
 
 ### Playing Music
 
@@ -122,7 +121,6 @@ A modern, feature-rich Windows desktop music player built with C# and Windows Fo
    - Songs in your playlist
    - Last.fm's massive music database
 
-![AI Recommendations](screenshots/ai-recommendations.png)
 
 ---
 
@@ -308,22 +306,7 @@ copies or substantial portions of the Software.
 - **Spotify** for design inspiration
 - **All contributors** who help improve this project
 
----
 
-## 📞 Contact & Support
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/music-player/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/music-player?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/music-player?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/music-player)
-![GitHub license](https://img.shields.io/github/license/yourusername/music-player)
 
 ---
 
@@ -350,6 +333,6 @@ copies or substantial portions of the Software.
 
 ---
 
-**Made with ❤️ and lots of ☕ by [Your Name]**
+**Made with ❤️ and lots of ☕ by Azfar Shafiq**
 
 *If you find this project helpful, please consider giving it a ⭐!*
